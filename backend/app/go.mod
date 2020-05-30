@@ -1,4 +1,3 @@
-// TODO: Fix before start development
 module github.com/kyohei0423/oidc-sample/backend/app
 
 go 1.13
